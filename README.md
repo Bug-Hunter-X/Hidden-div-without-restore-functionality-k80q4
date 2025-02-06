@@ -1,0 +1,3 @@
+# Uncommon HTML Bug: Disappearing Div
+
+This repository demonstrates a simple HTML bug where a div element disappears after a button click, and there's no mechanism to make it reappear.  The bug lies in the JavaScript function that hides the div; it lacks a means to reverse the action. This is a good illustration of how seemingly small omissions in code can lead to unexpected behavior.  The solution demonstrates how a simple addition restores functionality. 
